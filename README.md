@@ -15,7 +15,7 @@ It showcases my projects, skills, and experience in a clean, modern UI.
 
 
 ## 🚀 Live Demo
-**https://silagedik.com.tr**
+**www.silagedik.com.tr**
 
 ---
 
