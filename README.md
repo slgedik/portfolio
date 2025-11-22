@@ -22,9 +22,8 @@ It showcases my projects, skills, and experience in a clean, modern UI.
 ## 🛠️ Tech Stack
 
 ### **Frontend**
-- React (Vite or CRA)
+- React
 - TailwindCSS
-- HTML5 / CSS3 / JavaScript (ES6+)
 
 ### **Deployment**
 - Netlify (CI/CD + Custom DNS)
